@@ -1,1 +1,21 @@
-
+{
+    "name": "Eymen Repo",
+    "identifier": "com.eymenrepo.io",
+    "sourceURL": "https://raw.githubusercontent.com/IpaRepos/eymenrepo.github.io/main/list.json",
+    "apps": [
+        {
+            "name": "iTorrent",
+            "bundleIdentifier": "ru.nonamedude.iTorrent",
+            "developerName": "yyy",
+            "version": "1.8.4",
+            "versionDate": "2022-06-21T19:00:00+08:00",
+            "versionDescription": "Torrent for iOS",
+            "downloadURL": "https://github.com/IpaRepos/eymenrepo.github.io/raw/main/iTorrent_v1.8.4-dev.3.ipa",
+            "localizedDescription": "Torrent for ios",
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFkP9AZrqNwOhGQxd6uZipIGGGVTeYopE8Bg&usqp=CAU",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362
+        }
+    ]
+}
